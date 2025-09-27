@@ -119,12 +119,12 @@ The **Endpoint** (e.g., `lab-db.cdaa0mao8yqq.us-east-1.rds.amazonaws.com`) was c
 - Verified the **Address Book App** connected successfully to RDS.  
 - Tested **Add, Edit, and Delete** contacts.  
 
-📷 *Address Book App with RDS:* 
-  *Before Adding*
-    <img src="images/save-test.png" width="600">
-    
-  *After Adding*
-    <img src="images/save-test2.png" width="600">
+📷 *Address Book App with RDS:*  
+**Before Adding**  
+<img src="images/save-test.png" width="600">
+
+**After Adding**  
+<img src="images/save-test2.png" width="600">
 
 ---
 
